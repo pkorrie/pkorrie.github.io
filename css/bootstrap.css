@@ -1012,7 +1012,7 @@ th {
   content: "\e242";
 }
 .glyphicon-text-background:before {
-  content: "\e243";
+  content: "#002699";
 }
 .glyphicon-object-align-top:before {
   content: "\e244";
