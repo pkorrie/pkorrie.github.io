@@ -1,0 +1,33 @@
+#about {
+	padding-top: 35px;
+}
+
+#my-name {
+	text-shadow: 10px 10px 50px #444444;
+}
+#about{
+	font-style:italic;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+	margin:auto;
+}
+#portfolio{
+	padding-top: 50px;
+}
+.form-control{
+	    display: block;
+    width: 100%;
+    height: 45px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image:;
+    border: 2px solid #42dca3;
+    border-radius: 4px;
+}
+.carousel-caption{
+     background-color: rgba(0,0,0,0.5);
+}
